@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65" started-at="2019-04-04T18:13:44Z" finished-at="2019-04-04T18:13:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="65" started-at="2019-04-04T18:13:44Z" finished-at="2019-04-04T18:13:44Z">
+      <class name="org.qa.tests.Calc2">
+        <test-method status="PASS" signature="add2()[pri:0, instance:org.qa.tests.Calc2@5b464ce8]" name="add2" duration-ms="1" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add2 -->
+        <test-method status="PASS" signature="divide2()[pri:0, instance:org.qa.tests.Calc2@5b464ce8]" name="divide2" duration-ms="0" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide2 -->
+        <test-method status="PASS" signature="multiply2()[pri:0, instance:org.qa.tests.Calc2@5b464ce8]" name="multiply2" duration-ms="0" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply2 -->
+        <test-method status="PASS" signature="subtract2()[pri:0, instance:org.qa.tests.Calc2@5b464ce8]" name="subtract2" duration-ms="0" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtract2 -->
+      </class> <!-- org.qa.tests.Calc2 -->
+      <class name="org.qa.tests.Calc3">
+        <test-method status="PASS" signature="add3()[pri:0, instance:org.qa.tests.Calc3@30c7da1e]" name="add3" duration-ms="0" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add3 -->
+        <test-method status="PASS" signature="divide3()[pri:0, instance:org.qa.tests.Calc3@30c7da1e]" name="divide3" duration-ms="5" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide3 -->
+        <test-method status="PASS" signature="multiply3()[pri:0, instance:org.qa.tests.Calc3@30c7da1e]" name="multiply3" duration-ms="2" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply3 -->
+        <test-method status="PASS" signature="subtract3()[pri:0, instance:org.qa.tests.Calc3@30c7da1e]" name="subtract3" duration-ms="1" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtract3 -->
+      </class> <!-- org.qa.tests.Calc3 -->
+      <class name="org.qa.tests.Calc1">
+        <test-method status="PASS" signature="add1()[pri:0, instance:org.qa.tests.Calc1@49e4cb85]" name="add1" duration-ms="21" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add1 -->
+        <test-method status="PASS" signature="divide1()[pri:0, instance:org.qa.tests.Calc1@49e4cb85]" name="divide1" duration-ms="0" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide1 -->
+        <test-method status="PASS" signature="multiply1()[pri:0, instance:org.qa.tests.Calc1@49e4cb85]" name="multiply1" duration-ms="8" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiply1 -->
+        <test-method status="PASS" signature="subtract1()[pri:0, instance:org.qa.tests.Calc1@49e4cb85]" name="subtract1" duration-ms="0" started-at="2019-04-04T23:43:44Z" finished-at="2019-04-04T23:43:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtract1 -->
+      </class> <!-- org.qa.tests.Calc1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
